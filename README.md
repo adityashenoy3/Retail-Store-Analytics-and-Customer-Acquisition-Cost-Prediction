@@ -12,6 +12,6 @@ This project focuses on analyzing the performance of a convenience food mart cha
 To run this project, clone the repository and ensure you have the required libraries installed:
 
 ```bash
-git clone [[repository URL]](https://github.com/adityashenoy3/Retail-Store-Analytics-and-Customer-Acquisition-Cost-Prediction/tree/main)https://github.com/adityashenoy3/Retail-Store-Analytics-and-Customer-Acquisition-Cost-Prediction/tree/main
+git clone https://github.com/adityashenoy3/Retail-Store-Analytics-and-Customer-Acquisition-Cost-Prediction/tree/main)https://github.com/adityashenoy3/Retail-Store-Analytics-and-Customer-Acquisition-Cost-Prediction/tree/main
 pip install -r requirements.txt
 
